@@ -62,7 +62,7 @@ Calculation:
 
 * 4200 / 450 ≈ 9.3 modules
 
-✔ Final selection:
+Final selection:
 
 > **10 × 450 W = 4.5 kW system**
 
@@ -76,7 +76,7 @@ Formula:
 
 * 1.3 × 2.0 kW = 2.6 kW
 
-✔ Final selection:
+Final selection:
 
 > **3 kW Off-grid Inverter**
 
@@ -86,7 +86,7 @@ Formula:
 
 * Load ≈ 2 kW
 
-✔ Recommended:
+Recommended:
 
 > **24V or 48V system → Selected: 48V (better efficiency)**
 
@@ -109,7 +109,7 @@ Calculation:
 * 11,600 Wh / (48 × 0.8)
 * ≈ 302 Ah
 
-✔ Final selection:
+Final selection:
 
 > **48V, ~300–350Ah Battery Bank (1 day autonomy)**
 
