@@ -1,6 +1,6 @@
 
 
-#  Off-Grid Solar PV System Design – Al Ain (Recalculated)
+#  Off-Grid Solar PV System Design – Al Ain (UAE)
 
 ---
 
